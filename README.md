@@ -67,6 +67,37 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon-AWS&logoColor=white)
 
+# Hey👋, I'm [Your Name]!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](your-github-url)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:your-email)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](your-twitter-url)
+
+## About Me
+
+- 💻 Currently working with Python, Java, MySQL, Django, Node.
+- 🌱 Currently learning Full Stack Development using MERN Stack.
+- 🔬 Have prior experience with Data Science projects in Machine Learning, Data Analysis using R & Python.
+- 🎓 Completed my Bachelor's in 2020 with majors in Computer Science with Specialization in Data Analytics.
+- 📄 Checkout my [Resume](your-resume-link).
+
+## Connect with me:
+<a href="your-linkedin-url" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="your-twitter-url" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white"></a>
+<a href="your-instagram-url" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white"></a>
+<a href="your-facebook-url" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
+
+
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
+
+## Achievements
+![Achievements](https://img.shields.io/badge/Achievement-1-green?style=flat&logo=acm)
+![Achievements](https://img.shields.io/badge/Achievement-2-blue?style=flat&logo=acm)
+
+
 ## Achievements
 ![Achievements](https://img.shields.io/badge/Achievement-1-green?style=flat&logo=acm)
 ![Achievements](https://img.shields.io/badge/Achievement-2-blue?style=flat&logo=acm)

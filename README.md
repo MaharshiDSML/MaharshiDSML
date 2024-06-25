@@ -52,20 +52,40 @@ Here are some ideas to get you started:
 <a href="[your-facebook-url](https://www.facebook.com/maharshi112)" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
 
 ## Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+### Databases 
+![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-red?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-black?style=flat&logo=amazon-redshift)
+
+### Languages, Libraries and Frameworks
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-red?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-green?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-orange?style=flat&logo=seaborn)
+![SciPy](https://img.shields.io/badge/-SciPy-brown?style=flat&logo=scipy)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-black?style=flat&logo=statsmodels)
+![R](https://img.shields.io/badge/-R-yellow?style=flat&logo=R)
+![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-red?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-brown?style=flat&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+
+### Tools
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau)
+![Power BI](https://img.shields.io/badge/-Power%20BI-green?style=flat&logo=power-bi)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git)
+![Django](https://img.shields.io/badge/-Django-brown?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-orange?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon-AWS&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-brown?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoft-azure)
+
 
 
 ## Achievements

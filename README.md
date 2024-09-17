@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - MS Excel
   - MS Office
 -->
-![Profile Banner](https://github.com/MaharshiDSML/MaharshiDSML/blob/main/banner.png)
+![Profile Banner](https://github.com/MaharshiDSML/MaharshiDSML/blob/main/Images/banner.png)
 
 # I am Maharshi Trivedi
 

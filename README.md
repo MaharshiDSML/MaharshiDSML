@@ -1,6 +1,6 @@
 <!--
 **MaharshiDSML/MaharshiDSML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/MaharshiDSML/MaharshiDSML/blob/main/banner.png
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   - MS Excel
   - MS Office
 -->
-# Hey there 👋, I'm Maharshi Trivedi
+![Profile Banner](https://github.com/MaharshiDSML/MaharshiDSML/blob/main/banner.png)
+
+# I am Maharshi Trivedi
 
 ## Welcome to my GitHub profile. Glad to see you here! 
  
@@ -39,8 +41,6 @@ Here are some ideas to get you started:
 - 🎓 Completed my Bachelor's in 2011 with majors in Biomedical Engineering from National INstitue of Technology, Raipur, India.
 - 🎓 Presently pursuing my Master's in Computer Science from Neovarsity Scaler, India and Woolf University, Spain with Specialization in Data Science, Machine Learning and Artificial Intelligence.
 - 💼 I’m currently working at FairTech.
-- 🤔 I’m looking for help with [what you're seeking help with]
-- 💬 Ask me about [topics you are knowledgeable about]
 - 📫 Checkout my Portfolio: <a href="https://www.datascienceportfol.io/maharshi112" target="_blank">https://www.datascienceportfol.io/maharshi112</a>
 - 📄 Checkout my <a href="your-resume-link" target="_blank">Resume</a>.
 - ⚡ Fun fact: I developed a chatbot that can write poetry and even tell jokes, using advanced AI models!
@@ -51,14 +51,12 @@ Here are some ideas to get you started:
 <a href="mailto:maharshi.trivedi112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="[your-facebook-url](https://www.facebook.com/maharshi112)" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
 
-## Languages and Tools:
-### Databases 
+## Tech Stack:
+
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-red?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-black?style=flat&logo=amazon-redshift)
-
-### Languages, Libraries and Frameworks
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![NumPy](https://img.shields.io/badge/-NumPy-red?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat&logo=pandas)
@@ -72,16 +70,12 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-brown?style=flat&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-
-### Tools
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-green?style=flat&logo=power-bi)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git)
 ![Django](https://img.shields.io/badge/-Django-brown?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-orange?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon-AWS&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-brown?style=flat&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoft-azure)

@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 - 💼 I’m currently working at FairTech.
 - 🤔 I’m looking for help with [what you're seeking help with]
 - 💬 Ask me about [topics you are knowledgeable about]
-- 📫 Checkout my Portfolio: https://www.datascienceportfol.io/maharshi112
-- 📄 Checkout my [Resume](your-resume-link).
+- 📫 Checkout my Portfolio: <a href="https://www.datascienceportfol.io/maharshi112" target="_blank">https://www.datascienceportfol.io/maharshi112</a>
+- 📄 Checkout my <a href="your-resume-link" target="_blank">Resume</a>.
 - ⚡ Fun fact: I developed a chatbot that can write poetry and even tell jokes, using advanced AI models!
 
 ## Connect with me:

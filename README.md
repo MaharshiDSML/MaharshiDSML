@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/maharshi-trivedi-857800108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="[your-github-url](https://github.com/MaharshiDSML)" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"></a>
+<a href="https://github.com/MaharshiDSML" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"></a>
 <a href="mailto:maharshi.trivedi112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="[your-facebook-url](https://www.facebook.com/maharshi112)" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/maharshi112" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
 
 ## Tech Stack:
 

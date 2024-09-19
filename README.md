@@ -87,12 +87,29 @@ Here are some ideas to get you started:
 [![Degrees](https://img.shields.io/badge/Achievement%202%20-%20Degrees-blue?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certificates)
 
 
-### Project 1: [Project Name]
-- Description: [Brief description of the project]
-- Link: [GitHub link to the project]
+### Project 1: Fintech Churn Analysis
+- Description:
+  - Analyzed the rapidly evolving banking sector to address critical concerns regarding customer retention.
+  - Investigated factors influencing customer decisions to remain with or leave their banking service provider.
+  - Conducted a comprehensive analysis of a dataset containing various attributes of bank customers to identify key predictors of
+customer churn.
+  - Leveraged data analytics to uncover patterns and insights that inform strategies for enhancing customer retention and
+reducing churn rates.
+  - Utilized Google Collab, Python and its Libraries, Probability and Statistics, Hypothesis Testing to streamline data processing,
+reducing analysis time by 30%.
 
-### Project 2: [Project Name]
-- Description: [Brief description of the project]
-- Link: [GitHub link to the project]
+- Link: https://github.com/MaharshiDSML/Data-Analysis-Portfolio-Project-Fintech-Churn-Analysis
+
+### Project 2: Target SQL
+- Description:
+  - Analyzed 100,000 orders from Target (2016-2018), providing actionable insights that led to a 15% improvement in operational
+efficiency.
+  - Evaluated Target's Brazilian operations by assessing order data, uncovering growth opportunities that increased market
+penetration by 10%.
+  - Identified insights into order fulfillment and customer satisfaction, resulting in enhanced pricing strategies that boosted
+revenue by 12%.
+  - Utilized GCP, BigQuery, and MySQL to streamline data processing, reducing analysis time by 30%.
+
+- Link: https://github.com/MaharshiDSML/Target-Company-Case-Study-SQL
 
 Thanks for visiting my profile! Have a great day! 😊

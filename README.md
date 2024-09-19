@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 ## Tech Stack:
 
-![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-red?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-black?style=flat&logo=amazon-redshift)

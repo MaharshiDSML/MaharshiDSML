@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 
 
 ## Achievements
-![Achievements](https://img.shields.io/badge/Achievement-1-green?style=flat&logo=acm)
-![Achievements](https://img.shields.io/badge/Achievement-2-blue?style=flat&logo=acm)
+[![Certifications](https://img.shields.io/badge/Achievement%201%20-%20Certifications-green?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certificates)
+[![Degrees](https://img.shields.io/badge/Achievement%202%20-%20Degrees-blue?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certificates)
 
 
 ### Project 1: [Project Name]

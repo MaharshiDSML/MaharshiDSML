@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🎓 Presently pursuing my Master's in Computer Science from Neovarsity Scaler, India and Woolf University, Spain with Specialization in Data Science, Machine Learning and Artificial Intelligence.
 - 💼 I’m currently working at FairTech.
 - 📫 Checkout my Portfolio: <a href="https://www.datascienceportfol.io/maharshi112" target="_blank">https://www.datascienceportfol.io/maharshi112</a>
-- 📄 Checkout my Resume: <a href="your-resume-link" target="_blank">https://github.com/MaharshiDSML/Certificates/blob/main/Maharshi%20Resume%20Latest.pdf</a>.
+- 📄 Checkout my Resume: <a href="your-resume-link" target="_blank">https://github.com/MaharshiDSML/Certificates/blob/main/Maharshi%20Resume%20Latest.pdf</a>
 - ⚡ Fun fact: I developed a chatbot that can write poetry and even tell jokes, using advanced AI models!
 
 ## Connect with me:

@@ -1,36 +1,3 @@
-<!--
-**MaharshiDSML/MaharshiDSML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/MaharshiDSML/MaharshiDSML/blob/main/banner.png
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## My Skills
-- Programming Languages: 
-  - SQL
-  - Python
-  - HTML and CSS
-  - JavaScript
-- Frameworks and Tools:
-  - GCP and Big Query
-  - AWS and Resdhift
-  - MySQL
-  - PostgreSQL
-  - NumPy, Pandas, MatPlotLib, Seaborn
-  - Tableau
-  - PowerBI
-  - MS Excel
-  - MS Office
--->
-![Profile Banner](https://github.com/MaharshiDSML/MaharshiDSML/blob/main/Images/banner.png)
-
 # I am Maharshi Trivedi
 
 ## Welcome to my GitHub profile. Glad to see you here! 
@@ -82,8 +49,8 @@ Here are some ideas to get you started:
 
 
 ## Achievements
-[![Certifications](https://img.shields.io/badge/Achievement%201%20-%20Certifications-green?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certificates)
-[![Degrees](https://img.shields.io/badge/Achievement%202%20-%20Degrees-blue?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certificates)
+[![Certifications](https://img.shields.io/badge/Achievement%201%20-%20Certifications-green?style=flat&logo=acm)](https://github.com/MaharshiDSML/Certifications)
+[![Degrees](https://img.shields.io/badge/Achievement%202%20-%20Degrees-blue?style=flat&logo=acm)](https://github.com/MaharshiDSML/Degrees)
 
 
 ### Project 1: Fintech Churn Analysis
